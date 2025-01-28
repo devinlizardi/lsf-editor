@@ -1,4 +1,9 @@
 .editorWrapper {
-  width: 100%;
+  width: 80vw;
+  height: 90vh;
+  border-radius: 20px;
+  background-color: #222222;
   text-align: center;
+  border: 2px solid var(--border-color);
+  min-width: 300px;
 }
